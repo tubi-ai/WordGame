@@ -1,0 +1,11 @@
+{
+    "title": "Kelime Tahmin Oyunu",
+    "guessTheWord": "Kelimeyi Tahmin Et: {word}",
+    "enterGuess": "Tahminini Gir",
+    "playAgain": "Tekrar Oyna",
+    "gameOver": "Oyun Bitti",
+    "congratsMessage": "Tebrikler, kelimeyi doğru tahmin ettiniz!",
+    "failureMessage": "Deneme hakkınız bitti! Kelime: {word}",
+    "remainingAttempts": "Kalan Deneme Hakkı: {attempts}",
+    "yourGuesses": "Tahminleriniz: {guesses}"
+}

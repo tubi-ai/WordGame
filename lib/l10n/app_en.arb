@@ -1,0 +1,11 @@
+{
+    "title": "Word Guess Game",
+    "guessTheWord": "Guess the Word: {word}",
+    "enterGuess": "Enter your guess",
+    "playAgain": "Play Again",
+    "gameOver": "Game Over",
+    "congratsMessage": "Congratulations, you guessed the word!",
+    "failureMessage": "You've run out of attempts! The word was: {word}",
+    "remainingAttempts": "Remaining Attempts: {attempts}",
+    "yourGuesses": "Your Guesses: {guesses}"
+}
